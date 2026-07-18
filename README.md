@@ -23,7 +23,7 @@ Shell bootstrap, pre-commit framework, Terraform tooling.
 ## Usage
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/moveeeax/pre-commit-terraform-lite/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/cybercapybara/pre-commit-terraform-lite/main/install.sh | sh
 ```
 
 ## License
